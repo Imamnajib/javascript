@@ -1,2 +1,2 @@
 # javascript
-Tugas Nf academy
+kumpulan pemograman javascript
